@@ -9,8 +9,8 @@ Este proyecto utiliza una red neuronal LSTM para predecir la tendencia del preci
 ## 📊 Resultados
 Las predicciones se visualizan en un gráfico comparativo entre los precios reales y las predicciones, junto con las curvas de pérdida durante el entrenamiento.
 
-![Predicción vs Precio Real] (Imagenes/2.PNG)
-![Curva de Pérdidas] (Imagenes/1.PNG)
+![Predicción vs Precio Real](Imagenes/2.PNG)
+![Curva de Pérdidas](Imagenes/1.PNG)
 
 ## 🚀 Cómo Usar
 1. Clona este repositorio: git clone https://github.com/Marioxda1/Bitcoin-Insight-AI.git
